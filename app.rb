@@ -1,5 +1,6 @@
 require 'sinatra'
 
 get '/' do
-  'jamesegan'
+  send_file 'index.html'
 end
+
