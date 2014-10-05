@@ -7,7 +7,7 @@
     <ignored path="jamesegan.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412113624196" ignored="false" />
-    <file path="/index.html" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412537656843" ignored="false" />
+    <file path="/index.html" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412537728137" ignored="false" />
     <file path="/app.css" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412506956693" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="73" selection-start="502" selection-end="502" vertical-scroll-proportion="0.2742616">
+            <state line="13" column="65" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2742616">
               <folding />
             </state>
           </provider>
@@ -369,7 +369,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="73" selection-start="502" selection-end="502" vertical-scroll-proportion="0.2742616">
+        <state line="13" column="65" selection-start="494" selection-end="494" vertical-scroll-proportion="0.2742616">
           <folding />
         </state>
       </provider>
