@@ -1,0 +1,14 @@
+# Logfile created on 2014-10-18 23:09:48 +0100 by logger.rb/25413
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Starting the New Relic agent in "development" environment.
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Reading configuration from config/newrelic.yml (/Users/joe/Documents/gits/jamesegan)
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Environment: development
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : No known dispatcher detected.
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Application: My Application (Development)
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Installing Net instrumentation
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Installing Sinatra instrumentation
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Installing deferred Rack instrumentation
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Installing Rack::Builder middleware instrumentation
+[10/18/14 23:09:48 +0100 joes-mbp (69550)] INFO : Finished instrumentation
+[10/18/14 23:09:50 +0100 joes-mbp (69550)] INFO : Reporting to: https://rpm.newrelic.com/accounts/795360/applications/5497567
+[10/18/14 23:09:54 +0100 joes-mbp (69550)] INFO : Doing deferred dependency-detection before Rack startup
