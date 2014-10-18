@@ -29,3 +29,7 @@ h1 {
 p {
    margin: 0;
 }
+span {
+   position: absolute;
+   opacity: 0;
+}
