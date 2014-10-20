@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/newrelic.yml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.rb" afterPath="$PROJECT_DIR$/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app.css" afterPath="$PROJECT_DIR$/public/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app.js" afterPath="$PROJECT_DIR$/public/app.js" />
     </list>
     <ignored path="jamesegan.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412113624196" ignored="false" />
     <file path="/index.html" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413658600379" ignored="false" />
     <file path="/app.css" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413663432827" ignored="false" />
-    <file path="/app.js" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413664878394" ignored="false" />
+    <file path="/app.js" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413841429733" ignored="false" />
     <file path="/app.rb" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413659940569" ignored="false" />
     <file path="/Gemfile" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1413669478607" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,10 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.12711865">
+            <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -52,13 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="1" selection-start="4879" selection-end="4879" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1413664882000" expanded="true" signature="5026:5047" placeholder="..." />
-              </folding>
+            <state line="7" column="28" selection-start="4902" selection-end="4902" vertical-scroll-proportion="0.12479201">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +107,7 @@
       <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="13" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
+            <state line="33" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,13 +134,13 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/public/scripts/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/public/app.css" />
-        <option value="$PROJECT_DIR$/public/app.js" />
         <option value="$PROJECT_DIR$/words.html" />
         <option value="$PROJECT_DIR$/config/newrelic.yml" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/app.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/public/app.css" />
+        <option value="$PROJECT_DIR$/public/app.js" />
       </list>
     </option>
   </component>
@@ -404,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -453,18 +442,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/app.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="4879" selection-end="4879" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1413664882000" expanded="true" signature="5026:5047" placeholder="..." />
-          </folding>
+        <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="-3.125">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/public/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="228" selection-end="228" vertical-scroll-proportion="0.12711865">
+        <state line="33" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="4902" selection-end="4902" vertical-scroll-proportion="0.12479201">
           <folding />
         </state>
       </provider>
