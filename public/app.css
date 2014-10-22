@@ -1,5 +1,4 @@
 body {
-   position: relative;
    font-family: "Droid Sans",sans-serif;
    position: relative;
    font-size: 12px;
@@ -31,4 +30,6 @@ p {
 }
 span {
    position: absolute;
+   display: block;
+   opacity: 0;
 }
