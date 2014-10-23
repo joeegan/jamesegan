@@ -12,13 +12,23 @@ function hasSpanBeneath(x, y) {
 }
 
 function obtrusive(left, top, height, width) {
+           // top left
    return [{ x: left, y: top},
+            // top right
            {x: left + width, y: top},
+            // bottom left
            {x: left, y: top + height},
+            // bottom right
            {x: left + width, y: top + height},
+            // middle
            {x: left + Math.floor(width/2), y: top + Math.floor(height/2)},
-           {x: left + Math.floor(width/3), y: top + Math.floor(height/3)},
+            // first third middle
+           {x: left + Math.floor(width/3), y: top + Math.floor(height/2)},
+            // second third middle
+           {x: left + Math.floor((width/3)*2), y: top + Math.floor(height/2)},
+            // two up from top middle
            {x: left + Math.floor(width/2), y: top - 2},
+            // two down from top middle
            {x: left + Math.floor(width/2), y: top + height + 2},
             ].some(function(item, idx){
                return hasSpanBeneath(item.x, item.y);
