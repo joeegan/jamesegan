@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app.js" afterPath="$PROJECT_DIR$/public/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" name="Default" comment="" />
     <ignored path="jamesegan.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="56d61af2-a40c-4ec2-ac35-b8a5fc838cb5" time="1412113624196" ignored="false" />
@@ -32,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.33050847">
+            <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="-8.125">
               <folding />
             </state>
           </provider>
@@ -50,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="71" selection-start="5557" selection-end="5557" vertical-scroll-proportion="0.0">
+            <state line="25" column="71" selection-start="5557" selection-end="5557" vertical-scroll-proportion="0.37437603">
               <folding />
             </state>
           </provider>
@@ -449,16 +446,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/app.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="71" selection-start="5557" selection-end="5557" vertical-scroll-proportion="0.0">
+        <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="-8.125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/public/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.33050847">
+        <state line="25" column="71" selection-start="5557" selection-end="5557" vertical-scroll-proportion="0.37437603">
           <folding />
         </state>
       </provider>
