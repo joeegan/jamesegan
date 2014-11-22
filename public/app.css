@@ -5,6 +5,12 @@ body {
    color: #333;
    margin: 20px;
 }
+.sound div {
+   margin-bottom: 15px;
+}
+.sound p {
+   margin-bottom: 2px;
+}
 .center {
 }
 img {
