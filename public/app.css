@@ -5,6 +5,10 @@ body {
    color: #333;
    margin: 20px;
 }
+.cl {
+   overflow: hidden;
+   margin-bottom: 10px;
+}
 .sound div {
    margin-bottom: 15px;
 }
@@ -62,6 +66,9 @@ p {
 }
 .nav li a {
 
+}
+audio {
+   margin-bottom: 10px;
 }
 
 
