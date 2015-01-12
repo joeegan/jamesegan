@@ -1,9 +1,9 @@
 require 'sinatra'
 
 get '/' do
-  send_file 'index.html'
+  send_file 'public/index.html'
 end
 
 get '/:name' do
-   send_file "#{params[:name]}.html"
+   send_file "public/#{params[:name]}.html"
 end
