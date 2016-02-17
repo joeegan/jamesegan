@@ -73,3 +73,8 @@ audio {
   right: 0px;
   top: 0px;
 }
+
+.flags span {
+  display: inline-block;
+  padding-right: 5px;
+}
